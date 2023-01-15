@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="automation">
+
+    <teest name = "test">
+        <clases>
+            <class name = "com.automation.test_classes.QiagenTest"/>
+        </clases>
+
+    </teest>
+</suite>
